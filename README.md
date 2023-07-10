@@ -1,1 +1,1 @@
-# Hostel
+# Fake News Prediction ML Model 
